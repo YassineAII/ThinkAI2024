@@ -13,7 +13,8 @@ Members: Lamiaa EL OUATILI, Meryem JELFA, Yassine Bentaleb \
 GitHub Repo: [Arthur Samuel Repo](https://github.com/arthur-samuel-thinkai/dayem/blob/main/README.md) \
 Idea: Improving the efficiency of Moroccan agricultural practices using AI-based predictive analytics to optimize irrigation and crop management.
 
-![](../images/arthur1.PNG) \
+![](../images/arthur1.PNG)
+
 https://github.com/YassineAII/ThinkAI2024/assets/83742992/fbe1e8e9-634f-4131-b1f6-9375851cab55
 
 ### [3rd Place] The Eagles
@@ -31,7 +32,8 @@ GitHub Repo: [SynthSis Repo](https://github.com/Yassmine2020/SythSis) \
 Idea: Connecting Moroccan entrepreneurs with mentors and investors to foster growth and innovation.
 
 ![](../images/bytes1.png)
-![](../images/bytes2.mp4)
+
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/bb1cfb17-f52f-4fb0-822f-96a0adccdb84
 
 ### [5th Place] 3 bytes
 Members: Mehdi Benabdelkader, Salah-Eddine Zaame, Aya Benchekroun \
@@ -51,8 +53,7 @@ Members: Mohammed EL BARHICHI, Imane MEZIANY, Asmae EL KHALFI \
 GitHub Repo: [TechSpark Repo](https://github.com/MohamedAlaouiMhamdi/Flahti) \
 Idea: Developing tools for small businesses to analyze market trends and make informed decisions.
 
-![](../images/Techspark.mp4)
-
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/011c46ac-2442-408c-bd1a-1eb09ffb6eb2
 
 ### [8th Place] IndusTrial and Error
 Members: Mohamed BACHAR, Fatima Zahra OUBELLA, Omar MAROUANE \
@@ -68,14 +69,15 @@ GitHub Repo: [KYA Repo](https://github.com/alielfilali01/ThinkAI24-Hack-KYA_Team
 Idea: Enhancing tourists' and guests' comfort using AR and VR technology to educate them about Moroccan culture and history.
 
 ![](../images/KYA1.png)
-![](../images/KYA2.mp4)
+
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/973b24cd-a76c-4a5e-9d65-920d56326226
 
 ### [10th Place] Deep Dive
 Members: Mohammed Barrouch, Najwa NAAMANE, Maha LAABABI \
 GitHub Repo: [Deep Dive Repo](https://github.com/SpixerD/Amazighini) \
 Idea: Preserving Amazigh and Moroccan heritage by creating a digital library with translation and interpretation tools.
 
-![](../images/deepdive.mp4)
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/1474d703-74d9-4d28-900a-426e1ede8b8f
 
 ### [11th Place] MR.ROBOT
 Members: ADRANE Akram, AMZYL Mohammed Ali, BELMOUSSA Abdallah \
@@ -83,20 +85,20 @@ GitHub Repo: [MR.ROBOT Repo](https://github.com/AkramOM606/e-SoccerCoach) \
 Idea: Enhancing coaching decisions with an AI-driven tool that processes and highlights critical insights from live data during matches.
 
 ![](../images/robot.jpg)
-![](../images/robot.mp4)
+
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/380e341b-09a8-40f0-b765-9d48cb032665
 
 ### [12th Place] Pixel Vision
 Members: HAMZA BOUKTITIYA, HAMZA OKHADIR, CHERDID AOUATIF \
 GitHub Repo: [Pixel Vision Repo](https://github.com/THINKAI-MOROCCO/Pixel-Vision) \
 Idea: Providing an online and offline accessible medical sourcebook for first aid in the event of an accident at home.
 
-
 ### [13th Place] Fatal ERROR
 Members: Harcha Badr-Eddine, Aissa Lamin, Merouane Zouaid \
 GitHub Repo: [Fatal ERROR Repo](https://github.com/merouanezouaid/artigen-ai) \
 Idea: Creating an online marketplace that helps Moroccan artisans showcase and sell their products while providing tools for business management.
 
-![](../images/fatalerror.mp4)
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/2c58572e-67dd-4f73-9cff-c23fcbecd90b
 
 ### [14th Place] Breathe AI
 Members: BEN JAAFAR Chaima, M'RHAR Kaoutar \
@@ -105,19 +107,21 @@ Idea: Developing a discreet, AI-powered chatbot to connect women experiencing vi
 
 ![](../images/breath.gif)
 
+
+
 ### [15th Place] 3odna
 Members: FIRDAWSI Amine, AABIBI Youness, YASSIF Yassine \
 GitHub Repo: [3odna Repo](https://github.com/yyassif/lguide-ai) \
 Idea: Addressing critical solutions for security and risk management issues in various sectors.
 
-![](../images/3odna.mp4)
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/707ec215-13aa-4b9a-af39-ad037b2846af
 
 ### [16th Place] Ai Wizards
 Members: Ayoub Boulmeghras, Anas Aberchih, Moussa Aoukacha \
 GitHub Repo: [Ai Wizards Repo](https://github.com/MohamedAlaouiMhamdi/Flahti/tree/main) \
 Idea: Flahti is an AI-powered chatbot designed to assist users with legal advice, guiding them through common legal procedures and answering questions.
 
-![](../images/aiwizards.mp4)
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/98df9ad2-c19d-4817-a796-0f7c0002c853
 
 ### [17th Place] ai-t math-n
 Members: Mohamed Ouaicha, Yassir Salmi \
