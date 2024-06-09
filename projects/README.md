@@ -4,10 +4,6 @@ GitHub Repo: [Tensor Titans Repo](https://github.com/Tensor-Titans/Lmaghrib-BinY
 Idea: A chatbot platform offering detailed information, navigation, pricing, and real-time support for tourists exploring Moroccan monuments.
 
 ![](../images/tensor1.jpg)
-<video width="320" height="240" controls>
-  <source src="https://github.com/YassineAII/ThinkAI2024/blob/main/images/arthur2.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ### [2nd Place] Arthur Samuel
