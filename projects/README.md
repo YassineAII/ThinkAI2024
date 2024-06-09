@@ -1,3 +1,9 @@
+# Projects
+
+The ThinkAI Hackathon centers on employing Generative AI to address issues pertinent to Moroccan culture, its people, and the nation as a whole. Participants are expected to select a problem that aligns with the overarching theme of the hackathon. They can choose from a predefined list of real-world problems, each accompanied by a description, relevant resources, and suggested contributions. If participants have an innovative problem in mind that doesn't fit the predefined categories, they can propose an 'other' path. Teams must focus on solving only one problem and are encouraged to consult with mentors for any necessary adjustments. The selection of the problem does not influence the project’s evaluation criteria, which are detailed on a separate evaluation page.
+
+Below, you'll find the projects submitted by all the participants of the hackathon. Each listing includes a brief description of the project, its objectives, and a link to the GitHub repository where you can explore the code, methodologies, and resources used. Feel free to delve into these projects to understand how each team approached their chosen problem using Generative AI, and perhaps even contribute to their further development or get inspired for your own future projects.
+
 ### [1st Place] Tensor Titans
 Members: Abdellah WALID, Abdessamie Nachi, Tarik SGHIOURI IDRISSI \
 GitHub Repo: [Tensor Titans Repo](https://github.com/Tensor-Titans/Lmaghrib-BinYedik/) \
