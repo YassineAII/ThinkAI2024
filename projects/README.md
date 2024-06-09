@@ -85,7 +85,7 @@ Idea: Preserving Amazigh and Moroccan heritage by creating a digital library wit
 
 https://github.com/YassineAII/ThinkAI2024/assets/83742992/1474d703-74d9-4d28-900a-426e1ede8b8f
 
-### [11th Place] MR.ROBOT
+### MR.ROBOT
 Members: ADRANE Akram, AMZYL Mohammed Ali, BELMOUSSA Abdallah \
 GitHub Repo: [MR.ROBOT Repo](https://github.com/AkramOM606/e-SoccerCoach) \
 Idea: Enhancing coaching decisions with an AI-driven tool that processes and highlights critical insights from live data during matches.
@@ -94,19 +94,19 @@ Idea: Enhancing coaching decisions with an AI-driven tool that processes and hig
 
 https://github.com/YassineAII/ThinkAI2024/assets/83742992/380e341b-09a8-40f0-b765-9d48cb032665
 
-### [12th Place] Pixel Vision
+### Pixel Vision
 Members: HAMZA BOUKTITIYA, HAMZA OKHADIR, CHERDID AOUATIF \
 GitHub Repo: [Pixel Vision Repo](https://github.com/THINKAI-MOROCCO/Pixel-Vision) \
 Idea: Providing an online and offline accessible medical sourcebook for first aid in the event of an accident at home.
 
-### [13th Place] Fatal ERROR
+### Fatal ERROR
 Members: Harcha Badr-Eddine, Aissa Lamin, Merouane Zouaid \
 GitHub Repo: [Fatal ERROR Repo](https://github.com/merouanezouaid/artigen-ai) \
 Idea: Creating an online marketplace that helps Moroccan artisans showcase and sell their products while providing tools for business management.
 
 https://github.com/YassineAII/ThinkAI2024/assets/83742992/2c58572e-67dd-4f73-9cff-c23fcbecd90b
 
-### [14th Place] Breathe AI
+### Breathe AI
 Members: BEN JAAFAR Chaima, M'RHAR Kaoutar \
 GitHub Repo: [Breathe AI Repo](https://github.com/Shaima-BenJaafar/Breathe-AI) \
 Idea: Developing a discreet, AI-powered chatbot to connect women experiencing violence in Morocco with local support and resources.
@@ -115,36 +115,36 @@ Idea: Developing a discreet, AI-powered chatbot to connect women experiencing vi
 
 
 
-### [15th Place] 3odna
+### 3odna
 Members: FIRDAWSI Amine, AABIBI Youness, YASSIF Yassine \
 GitHub Repo: [3odna Repo](https://github.com/yyassif/lguide-ai) \
 Idea: Addressing critical solutions for security and risk management issues in various sectors.
 
 https://github.com/YassineAII/ThinkAI2024/assets/83742992/707ec215-13aa-4b9a-af39-ad037b2846af
 
-### [16th Place] Ai Wizards
+### Ai Wizards
 Members: Ayoub Boulmeghras, Anas Aberchih, Moussa Aoukacha \
 GitHub Repo: [Ai Wizards Repo](https://github.com/MohamedAlaouiMhamdi/Flahti/tree/main) \
 Idea: Flahti is an AI-powered chatbot designed to assist users with legal advice, guiding them through common legal procedures and answering questions.
 
 https://github.com/YassineAII/ThinkAI2024/assets/83742992/98df9ad2-c19d-4817-a796-0f7c0002c853
 
-### [17th Place] ai-t math-n
+### ai-t math-n
 Members: Mohamed Ouaicha, Yassir Salmi \
 GitHub Repo: [ai-t math-n Repo](https://github.com/bssayla/Lfahem) \
 Idea: Providing assistance in the field of law through an AI solution that helps people understand and manage their legal needs.
 
-### [18th Place] AI Gravity
+### AI Gravity
 Members: Oumayma Bennouna, Oumaima Bendidi, Youssef Abedali \
 GitHub Repo: [AI Gravity Repo](https://github.com/juicysuii/Henini-Afcon/blob/main/README.md) \
 Idea: Offering real-time navigation, language translation, and cultural tips to fans attending the African Cup 2025.
 
-### [19th Place] AI minds
+### AI minds
 Members: Oumayma Essarhi, Hanane Kardi, Elhajjam Nouhaila \
 GitHub Repo: [AI minds Repo](https://github.com/ouma09/ThinkAI_hackathon2024) \
 Idea: Analyzing medical records and providing personalized health insights and recommendations to help patients make informed decisions.
 
-### [20th Place] intelliTech
+### intelliTech
 Members: Mohamed Elhassnaoui, Hafsa Boussaboun \
 GitHub Repo: [intelliTech Repo](https://github.com/HafsaBoussaboun/Hackathon_IntelliTech) \
 Idea: Enhancing agricultural operations with a platform that offers precision farming tools, resource management, and predictive analytics.
@@ -152,19 +152,19 @@ Idea: Enhancing agricultural operations with a platform that offers precision fa
 ![](../images/intellitech1.jpeg)
 ![](../images/intellitech2.jpeg)
 
-### [21st Place] Night walker
+### Night walker
 Members: Charaf hamidi, Ibtissam Essadik \
 GitHub Repo: [Night walker Repo](https://github.com/charaf19/9erini) \
 Idea: Providing a comprehensive safety solution for night workers through GPS tracking, emergency alerts, and real-time support.
 
 ![](../images/nightwalker.png)
 
-### [22nd Place] DataSci
+### DataSci
 Members: Amine Ahlyel, Zakariae Mrabet, Othmane Nouakchi \
 GitHub Repo: [DataSci Repo](https://github.com/1337DataSci/Matssyedch) \
 Idea: Developing a platform to enhance public health data analysis and visualization, supporting healthcare providers in tracking and responding to health trends.
 
-### [23rd Place] homeless autoencoders
+### homeless autoencoders
 Members: Mouad Ennasiry, Salim El Mardi, Reda Elkate \
 GitHub Repo : [homeless autoencoders Repo](https://github.com/mouadenna/MO3ALIMI)
 Idea: MO3ALIMI is a platform designed to help illiterate adults learn the basics of literacy. The platform focuses on alphabets, writing, reading, and basic numeracy. Users receive personalized quizzes that assist them in learning and practicing simultaneously.
