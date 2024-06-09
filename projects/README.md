@@ -3,6 +3,8 @@ Members: Abdellah WALID, Abdessamie Nachi, Tarik SGHIOURI IDRISSI \
 GitHub Repo: [Tensor Titans Repo](https://github.com/Tensor-Titans/Lmaghrib-BinYedik/) \
 Idea: A chatbot platform offering detailed information, navigation, pricing, and real-time support for tourists exploring Moroccan monuments.
 
+![](../images/tensor1.jpg) 
+
 https://github.com/YassineAII/ThinkAI2024/assets/83742992/900095ec-ac76-4c8c-a512-c424d9790956
 
 
