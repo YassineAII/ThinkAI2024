@@ -167,3 +167,4 @@ Idea: Developing a platform to enhance public health data analysis and visualiza
 ### [23rd Place] homeless autoencoders
 Members: Mouad Ennasiry, Salim El Mardi, Reda Elkate \
 GitHub Repo : [homeless autoencoders Repo](https://github.com/mouadenna/MO3ALIMI)
+Idea: MO3ALIMI is a platform designed to help illiterate adults learn the basics of literacy. The platform focuses on alphabets, writing, reading, and basic numeracy. Users receive personalized quizzes that assist them in learning and practicing simultaneously.
