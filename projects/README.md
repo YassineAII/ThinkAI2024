@@ -3,7 +3,8 @@ Members: Abdellah WALID, Abdessamie Nachi, Tarik SGHIOURI IDRISSI \
 GitHub Repo: [Tensor Titans Repo](https://github.com/Tensor-Titans/Lmaghrib-BinYedik/) \
 Idea: A chatbot platform offering detailed information, navigation, pricing, and real-time support for tourists exploring Moroccan monuments.
 
-![](../images/tensor1.jpg)
+![](../images/tensor1.jpg) \
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/900095ec-ac76-4c8c-a512-c424d9790956
 
 
 ### [2nd Place] Arthur Samuel
@@ -11,17 +12,17 @@ Members: Lamiaa EL OUATILI, Meryem JELFA, Yassine Bentaleb \
 GitHub Repo: [Arthur Samuel Repo](https://github.com/arthur-samuel-thinkai/dayem/blob/main/README.md) \
 Idea: Improving the efficiency of Moroccan agricultural practices using AI-based predictive analytics to optimize irrigation and crop management.
 
-![](../images/arthur1.PNG)
-![](../images/arthur2.mp4)
+![](../images/arthur1.PNG) \
+https://github.com/YassineAII/ThinkAI2024/assets/83742992/fbe1e8e9-634f-4131-b1f6-9375851cab55
 
 ### [3rd Place] The Eagles
 Members: Abdeljalil EL Majjodi, Younes Benlaanaya, Ayoub Benali \
 GitHub Repo: [The Eagles Repo](https://github.com/Dembelinho/Terjman_AI) \
 Idea: Enhancing user interaction with LLMs by focusing on user requirements and providing useful tips and tricks. \
 
-![](../images/tarjman3.png)
-![](../images/tarjman1.gif)
-![](../images/tarjman2.gif)
+![](../images/tarjman3.png) \
+![](../images/tarjman1.gif) \
+![](../images/tarjman2.gif) \
 
 ### [4th Place] SynthSis
 Members: Abir HARRASSE, Yassmine ED-DYB \
